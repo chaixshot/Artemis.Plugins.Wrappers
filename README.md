@@ -21,3 +21,6 @@ Plugin for [Artemis](https://artemis-rgb.com/) capable to take over RGB lighting
 # Credits
 * https://github.com/Archomeda/lightfx-extender
 * https://github.com/antonpup/Aurora
+
+### [YouTube Showcase](https://youtu.be/tHDyYNi0yoc)
+[![Watch the video](https://img.youtube.com/vi/tHDyYNi0yoc/maxresdefault.jpg)](https://youtu.be/tHDyYNi0yoc)
