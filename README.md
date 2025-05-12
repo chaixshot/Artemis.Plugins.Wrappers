@@ -1,6 +1,6 @@
 # Artemis.Plugins Wrappers
 
-Plugin for [Artemis](https://artemis-rgb.com/) capable to takeover RGB lighting control send from [Logitech Lightsync](https://github.com/xyj-3/lightsync-games/blob/master/lightsync-games.md), [Razer Chroma](https://www.razer.com/chroma-workshop#--games), [LightFX/AlienFX](https://web.archive.org/web/20200901235340/https://www.dell.com/support/article/en-us/sln320411/alienware-alienfx-supported-games?lang=en) supported games.
+Plugin for [Artemis](https://artemis-rgb.com/) capable to take over RGB lighting control send from [Logitech Lightsync](https://github.com/xyj-3/lightsync-games/blob/master/lightsync-games.md), [Razer Chroma](https://www.razer.com/chroma-workshop#--games), [LightFX/AlienFX](https://web.archive.org/web/20200901235340/https://www.dell.com/support/article/en-us/sln320411/alienware-alienfx-supported-games?lang=en) supported games.
 
 # Installation
 1. Download and Install [Artemis](https://artemis-rgb.com/)
@@ -16,7 +16,7 @@ Plugin for [Artemis](https://artemis-rgb.com/) capable to takeover RGB lighting 
 # Troubleshooting
 * Make sure Artemis writes the name of the game to the log.
 * If it does not work, submit an issue
-* Supported games will send lighting data to the plugin instead original software.
+* Supported games will send lighting data to the plugin instead of original software.
 
 # Credits
 * https://github.com/Archomeda/lightfx-extender
